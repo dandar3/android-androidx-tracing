@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<psf version="2.0">
+<provider id="org.eclipse.team.svn.core.svnnature">
+<project reference="1.0.1,https://github.com/dandar3/android-androidx-tracing/tags/1.0.0,androidx-tracing,201314399886001b115cd646a6ac5095;https://github.com/dandar3/android-androidx-tracing;https://github.com/dandar3/android-androidx-tracing;branches;tags;trunk;true;6722a3f2-0789-ec6c-6eb1-ce57b7db7bff;https://github.com/dandar3/android-androidx-tracing;;false;;;0"/>
+</provider>
+</psf>
